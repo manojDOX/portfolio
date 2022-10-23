@@ -144,6 +144,10 @@
         font-weight: bold;
         color: #F9813A;
     }
+   span{
+        color: #F9813A;
+        font-weight: bold;
+    }
     nav h1{
         font-size: 40px;
         position:relative;
